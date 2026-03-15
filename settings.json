@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": " whitebelliedgreenpigeon.aternos.host:18562",
-    "port": 18562,
+    "port": 18562 ,
     "version": "",
     "try-creative": false
   },
@@ -77,15 +77,7 @@
     "pick-up-day": true,
     "place-night": true
   },
-  "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
-    "events": {
-      "connect": true,
-      "disconnect": true,
-      "chat": false
-    }
-  },
+ 
   "chat": {
     "respond": true
   }
